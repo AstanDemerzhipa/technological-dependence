@@ -1,1 +1,1 @@
-# technological-dependence
+Сайт про технологическую зависимость на HTML и CSS
